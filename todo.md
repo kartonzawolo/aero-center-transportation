@@ -1,5 +1,6 @@
 # Reference Layout Revision Checklist
 
+- [x] Replace every current King & Carter brand lockup with the supplied King + Carter Premiere logo in the hero and footer, while preserving its readable size and contrast.
 - [x] Treat the supplied King & Carter × Hyatt Regency Atlanta design image as the visual ground-truth for hierarchy, center alignment, spacing, dividers, icon-led services, QR placement, and footer structure.
 - [x] Replace the experimental KC mark with the approved King & Carter Executive Transportation brand lockup where it appears in the header, QR treatment, and footer.
 - [x] Update the displayed guest contact phone number to **770 766 0383**.

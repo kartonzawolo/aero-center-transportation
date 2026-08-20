@@ -47,8 +47,8 @@ const services = [
 const BrandLockup = ({ className = "" }: { className?: string }) => (
   <img
     className={`brand-lockup ${className}`}
-    src="/manus-storage/kc-executive-transportation-lockup_d59662a3.png"
-    alt="King & Carter Executive Transportation"
+    src="/manus-storage/king-carter-premiere-logo_7b3eb6f4.jpg"
+    alt="King + Carter Premiere"
   />
 );
 
