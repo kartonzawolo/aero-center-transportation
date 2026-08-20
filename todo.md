@@ -1,5 +1,8 @@
 # Reference Layout Revision Checklist
 
+- [ ] Replace Hotel Phoenix with Aero Center PDK across the staging page and matching portrait design PDF while preserving every other approved element.
+- [ ] Create a new private GitHub repository for the Aero Center PDK version and provide its repository URL.
+- [x] Create a new private GitHub repository for Hotel Phoenix, populate it with the current staging code, and provide the repository URL.
 - [x] Replace every Hyatt Regency Atlanta reference with Hotel Phoenix in the staging page and matching portrait design PDF while retaining all other approved content and structure.
 - [x] Create a single-page PDF that retains the original Hyatt Regency Atlanta reference layout while replacing its old King & Carter lockup with the supplied King + Carter Premiere logo.
 - [x] Replace the reflowed webpage printout with a single-page PDF created directly from the supplied portrait design image, preserving the exact layout.
