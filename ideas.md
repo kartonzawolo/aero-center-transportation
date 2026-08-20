@@ -83,3 +83,7 @@ The page uses “Private chauffeur and executive transportation provided by King
 3. **Accepted:** The KC seal recurs as a small stationer’s mark in the service note and printed QR card, keeping it ritualistic rather than loud.
 4. **Accepted:** QR sharing, download, and printing remain useful staff utilities but are visually de-emphasized beneath the singular booking handoff.
 5. **Accepted:** The vehicle section caption emphasizes a hotel-arrival moment and will retain an intentionally dark, architectural crop rather than overt vehicle glamour.
+
+## Reference Layout Override
+
+The user-supplied King & Carter Executive Transportation image is now the **ground-truth visual specification** for this staging revision. Its centered single-column hierarchy, black-and-gold palette, formal King & Carter lockup, Hyatt Regency Atlanta title treatment, gold booking button, icon-led four-service row, centered QR card, and three-part contact footer override the prior asymmetric Quiet Arrival composition. The revised page preserves the existing approval-safe wording, working reservation handoff, and mobile responsiveness while following this reference with deliberate fidelity.
