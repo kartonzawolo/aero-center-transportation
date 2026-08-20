@@ -76,7 +76,7 @@ export default function Home() {
           </a>
 
           <div className="hotel-title">
-            <p>Hyatt Regency</p>
+            <p>Hotel Phoenix</p>
             <div className="hotel-location">
               <span />
               <b>Atlanta</b>
@@ -135,7 +135,7 @@ export default function Home() {
             <Globe2 size={17} aria-hidden="true" /> kingandcarter.com
           </a>
         </div>
-        <p className="reference-disclosure">Transportation services are provided and operated by King &amp; Carter. Staging preview for Hyatt Regency Atlanta review.</p>
+        <p className="reference-disclosure">Transportation services are provided and operated by King &amp; Carter. Staging preview for Hotel Phoenix review.</p>
       </footer>
     </div>
   );
